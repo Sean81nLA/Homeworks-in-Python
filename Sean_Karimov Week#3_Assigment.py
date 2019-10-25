@@ -7,7 +7,6 @@
 # 1 A for loop that loops 10 times and prints the number of each loop,
 #starting at 0. That is, it prints the numbers 0 through 9.
 
-#a. Hint, you can use the range() function just like we did in lecture
 
 for number in range(10):
     print(number)
